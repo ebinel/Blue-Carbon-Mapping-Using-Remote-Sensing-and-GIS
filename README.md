@@ -75,3 +75,4 @@ Visuals: Habitat classification & carbon stock heatmap
 Agbozu Ebingiye Nelvin
 Environmental Data Scientist
 GitHub: @Nelvinebi
+LinkedIn: https://www.linkedin.com/in/agbozu-ebi/
